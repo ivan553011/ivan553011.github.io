@@ -13,6 +13,8 @@
 
 <a href="#" onclick="magicc();return false">Позвонить</a>
 
+<script crossorigin="anonymous" async type="text/javascript" src="//api.pozvonim.com/widget/callback/v3/d12fdd25377ad1e3d0b53d13bd87e449/connect" id="check-code-pozvonim" charset="UTF-8"></script>
+
 
 </body>
 </html>
