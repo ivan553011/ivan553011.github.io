@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+  
+<!-- BEGIN (write your solution here) -->
 <!doctype html>
 <html lang="ru">
 <head>
@@ -18,3 +19,4 @@
  
 </body>
 </html>
+<!-- END -->
